@@ -2,6 +2,7 @@
 
 # Name of website
 title: Mark Morelos
+url: https://markmorelos.github.io
 
 # Short description of your site
 description: Aspiring Data Scientist
@@ -40,6 +41,7 @@ round-avatar: true
 social-network-links:
   email: "markrmorelos@gmail.com"
   github: mark-morelos
+  linkedin: markmorelos
   rss: true
 #  reddit: yourname
 #  linkedin: markmorelos
