@@ -10,3 +10,4 @@ comments: true
 
 Click this link to view the [blog post](https://medium.com/@markrmorelos/top-100-spotify-track-features-485c86f6e9ad)
 
+[Coding Notebook](https://github.com/mark-morelos/mark-morelos.github.io/blob/master/Spotify_Top_100_2018.ipynb)
