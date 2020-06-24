@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: First Project: Top 100 Spotify Track Features
+subtitle: What does it take to be on the Top 100 Spotify Tracks?
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Click this link to view the [blog post](https://medium.com/@markrmorelos/top-100-spotify-track-features-485c86f6e9ad)
 
 **Here is some bold text**
 
