@@ -1,8 +1,8 @@
 ---
 layout: post
-####Top 100 Spotify Track Features
-###subtitle: What does it take to be on the Top 100 Spotify Tracks?
-gh-repo: daattali/beautiful-jekyll
+title: Top 100 Spotify Track Features
+subtitle: What does it take to be on the Top 100 Spotify Tracks?
+gh-repo: mark-morelos/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [Spotify, Music, Songs, Top 100]
 comments: true
