@@ -1,10 +1,10 @@
 ---
 layout: post
-title: First Project: Top 100 Spotify Track Features
-subtitle: What does it take to be on the Top 100 Spotify Tracks?
+####Top 100 Spotify Track Features
+###subtitle: What does it take to be on the Top 100 Spotify Tracks?
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [Spotify, Music, Songs, Top 100]
 comments: true
 ---
 
